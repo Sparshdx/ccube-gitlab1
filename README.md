@@ -1,1 +1,1 @@
-# ccube-gitlab1
+# git basic tutorial by ccube
